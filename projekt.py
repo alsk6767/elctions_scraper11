@@ -1,5 +1,4 @@
 """
-projekt_3.py: třetí projekt do Engeto Online Python Akademie
 
 author: Ales Kancnyr
 email: ales.kancnyr@gmail.com
